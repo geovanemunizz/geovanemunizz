@@ -5,7 +5,7 @@
 - 🌱 estudando JavaScript 
 - 😄 ele/dele
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=geovanemunizz&show_icons=true&theme=tokyonight&show=reviews)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=geovanemunizz&show_icons=true&theme=tokyonight&show=reviews)](https://github.com/geovanemunizz)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geovanemunizz&layout=compact&theme=tokyonight)
 
