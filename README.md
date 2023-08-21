@@ -5,13 +5,13 @@
 - 🌱 estudando JavaScript 
 - 😄 ele/dele
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=geovanemunizz&show_icons=true&theme=tokyonight&show=reviews)](https://github.com/geovanemunizz)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=geovanemunizz&show_icons=true&theme=tokyonight&show=reviews&PAT_1)](https://github.com/geovanemunizz&)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geovanemunizz&layout=compact&PAT_1&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geovanemunizz&layout=compact&theme=tokyonight)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=geovanemunizz&repo=javascript&theme=tokyonight&show_owner=true)](https://github.com/geovanemunizz/javascript)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=geovanemunizz&repo=javascript&theme=tokyonight&show_owner=true&PAT_1)](https://github.com/geovanemunizz/javascript&PAT_1)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=geovanemunizz&repo=flexbox&theme=tokyonight)](https://github.com/geovanemunizz/flexbox)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=geovanemunizz&repo=flexbox&theme=tokyonight&PAT_1)](https://github.com/geovanemunizz/flexbox&PAT_1)
 
 
 <div style="display: inline_block"><br>
